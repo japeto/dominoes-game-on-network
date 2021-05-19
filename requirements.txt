@@ -1,0 +1,4 @@
+flask-restplus==0.9.2
+Flask-SQLAlchemy
+Werkzeug==0.16.1
+Flask-JWT-Extended==3.25.0
